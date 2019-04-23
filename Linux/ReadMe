@@ -1,1 +1,4 @@
 Vehicle object detection in c and cuda
+
+Main_GPU_bonus uses a local box structure instrd of OpenCV cvPoint structure.
+Additionally, the bonus file uses a suppression algorithm to eliminate bounding boxes
